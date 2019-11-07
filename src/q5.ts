@@ -6,6 +6,12 @@
 
 let checkId = function (id: string) {
 
+  if (1) {
+      
+  } else {
+      
+  }
+
 }
 
 checkId('425') // 不合法
